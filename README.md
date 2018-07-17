@@ -50,22 +50,43 @@ Copy the contract address and paste it into dist/js/app.js as shown below
 ---
 ## Application Screen's
 
-**Login**
+#Login
+
+
 ![Login page](../master/assets/images/screens/Login.png)
+
+Using Login Page New Users can Register into System and those who already have accounts can login to system. For Login, Metamask wallet address is must. Those who don't have metamask extention, can get it using the given link. Select your metamask account from which you have registered to system for successful login into system.
 ---
-**Registration**
+
+#Registration
+
+
 ![Registration page](../master/assets/images/screens/Registration.png)
+
+For new registrations, users can use Registration Page where users have to provide their basic information like fullname, email address , contact number and recidence address. After successful registration user can continue with login. 
 ---
-**Patient's Dashboard**
+
+#Patient's Dashboard
+
+
 ![Patient's Dashboard](../master/assets/images/screens/PatientsDashboard.png)
 
+On Patient's Dashboard, you can all information of Patient. 
 ---
-**Patient Share Profile with Doctors**
+
+#Patient Share Profile with Doctors
+
 ![Sharing Profile](../master/assets/images/screens/SharingProfile.png)
 
+To Share Patients details with doctor, patients have to provide doctors address. Using Share Profile with Doctor panel, patients can share their profiles with doctors.
 ---
-**Doctor's Dashboard**
+
+#Doctor's Dashboard
+
+
 ![Doctor's Dashboard](../master/assets/images/screens/DoctorsDashboard.png)
+
+On Dactor's Dashboard, you can all information of Doctor. In the Patients List Doctor can see details of patients who shared their profiles with doctor.
 
 ---
 
